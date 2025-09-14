@@ -9,7 +9,3 @@ resource "aws_instance" "terra-demo" {
 
 }
 
-resource "aws_security_group" "demoSG" {
-    
-  
-}
